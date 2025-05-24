@@ -27,7 +27,7 @@ This project is a production-level data engineering solution designed to process
 * **Snappy:** Data compression codec.
 * **PyCharm:** Recommended IDE.
 * **MySQL:** Database system (installation required).
-
+```plaintext
 Project structure:-
 my_project/
 ├── docs/
@@ -79,6 +79,7 @@ my_project/
 │   ├── test/
 │   │    ├── scratch_pad.py.py
 │   │    └── generate_csv_data.py
+```
 
 ## Setup Instructions
 

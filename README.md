@@ -105,4 +105,8 @@ my_project/
 
 ## Project Architecture
 
-![Project Architecture Structure](/docs/architecture.png)
+![Project Architecture Structure](https://github.com/sitanshu4933/DE_PROJECT_PRACTICE/blob/master/spark%20project/docs/architecture.png)
+
+## Database ER Diagram
+
+![Database ER Diagram Structure](https://github.com/sitanshu4933/DE_PROJECT_PRACTICE/blob/master/spark%20project/docs/database_schema.drawio.png)

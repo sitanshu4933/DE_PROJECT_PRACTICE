@@ -102,3 +102,7 @@ my_project/
 * `processing/`: Contains files related to data processing.
 * `README.md`: Project documentation.
 * `requirements.txt`: Python dependencies.
+
+## Project Architecture
+
+![Project Architecture Structure](/docs/architecture.png)
